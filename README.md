@@ -1,6 +1,5 @@
-<p align="center">
-  <a href="[[https://github.com/DenverCoder1](https://github.com/divano-9)](https://github.com/divano-9)">
-    Dušan Ivanović </a>
+<p align="center" size="30">
+ <a href="https://github.com/divano-9" style="font-size:2.5em;"> Dušan Ivanović </a>
 </p>
 
 <p align="center">
@@ -32,7 +31,7 @@
   <a href="https://github.com/divano-9?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
@@ -48,7 +47,7 @@
 
 
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -76,7 +75,8 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white" alt="illustrator"></a>
+      <a href="#"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white" alt="photoshop"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
