@@ -1,6 +1,7 @@
-<p align="center" size="30">
- <a href="https://github.com/divano-9" style="font-size:2.5em;"> Dušan Ivanović </a>
-</p>
+<h1 align="center">
+ <a href="https://github.com/divano-9"> 
+  Dušan Ivanović </a>
+</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
