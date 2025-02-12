@@ -71,17 +71,20 @@
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt="Daisy UI" src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff"/></a>
+      <a href="#"><img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=ff)"/></a>
+      <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white"/></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white" alt="illustrator"></a>
-      <a href="#"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white" alt="photoshop"></a>
+      <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?logo=adobe%20illustrator&logoColor=white" alt="illustrator"></a>
+      <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white" alt="photoshop"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="#"><img alt="Daisy UI" src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff"/></a>
   </p>
 </details>
 
