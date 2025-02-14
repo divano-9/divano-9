@@ -22,6 +22,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
+   <a href="https://github.com/divano-9/online-english-master1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divano-9&repo=online-english-master1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/divano-9/tv-db"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divano-9&repo=tv-db&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/divano-9/logo-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=divano-9&repo=logo-portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/divano-9/quiz-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=divano-9&repo=quiz-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
